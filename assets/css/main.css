@@ -2066,7 +2066,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #ffffff;
+		background: #5ac9e4;
 		border-bottom: solid 1px #ccc;
 		padding: 5em 0 4em 0;
 		text-align: center;
@@ -2173,9 +2173,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4 url("../../images/Trail.jpeg");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: auto 250%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
@@ -2266,7 +2266,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #5ac9e4 url("images/bg02.png");
 		padding: 4em 0 4em 0;
 	}
 
